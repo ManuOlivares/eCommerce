@@ -1,0 +1,98 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-decoration: none;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+ul, ol{
+	padding: 0px;
+
+}
+
+a:visited, a:link, a:focus, a:hover a:active{
+	list-style: none;
+	text-decoration: none;
+}
+
+.barraSuperior{
+	background: black;
+}
+
+.barraSuperior a{
+	color: white;
+}
+
+.backColor, .backColor a{
+	background: #47bac1;
+	color: white;
+}
+
+.redSocial{
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+}
+
+/* Facebook */
+.facebookBlanco{
+	color: white;
+}
+.facebookNegro{
+	color: black;
+}
+.facebookColor{
+	color: white;
+	background: #46639f;
+}
+
+/* Youtube */
+.youtubelanco{
+	color: white;
+}
+.youtubekNegro{
+	color: black;
+}
+.youtubeColor{
+	color: white;
+	background: #d6513e;
+}
+
+/* Twitter */
+.twitterBlanco{
+	color: white;
+}
+.twitterkNegro{
+	color: black;
+}
+.twitterColor{
+	color: white;
+	background: #0ab2e6;
+}
+
+/* Google plus*/
+.googleBlanco{
+	color: white;
+}
+.googleNegro{
+	color: black;
+}
+.googleColor{
+	color: white;
+	background: #d71617;
+}
+
+/* Instagram*/
+.instagramBlanco{
+	color: white;
+}
+.instagramNegro{
+	color: black;
+}
+.instagramColor{
+	color: white;
+	background: linear-gradient(45deg, #fca925, #ee1d5f, #6350a2);
+}
